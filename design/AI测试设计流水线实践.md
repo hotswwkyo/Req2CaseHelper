@@ -94,6 +94,7 @@ Req2CaseHelper/
 │       └── zt-import/                 # 技能：xlsx → 禅道（自动化导入）
 │           ├── SKILL.md
 │           └── scripts/zt_import.py
+├── design/                           # 设计方案与实践文档（含本文）
 ├── docs/
 │   └── 需求整理.txt                    # 原始需求
 ├── scripts/
